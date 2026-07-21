@@ -7,4 +7,8 @@ authors:
     given-names: "Halil"
     orcid: "https://orcid.org/0000-0001-5117-0390"
 repository-code: "https://github.com/REPLACE_WITH_USERNAME/spatial-spillover-underpowered-azerbaijan"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21468868"
+    description: "The digital object identifier of the replication package archived on Zenodo."
 license: "MIT"
