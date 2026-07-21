@@ -111,4 +111,6 @@ E-mail: halilibrahimtosun@gmail.com
 
 **Version:** 1.0.0
 
-**Archive DOI:** To be assigned upon public archival of this repository.
+**Archive DOI:** https://doi.org/10.5281/zenodo.21468868
+
+
