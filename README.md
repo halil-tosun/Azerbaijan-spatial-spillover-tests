@@ -107,6 +107,8 @@ MIT License (code). Data files retain the licensing terms of their original sour
 
 ORCID: https://orcid.org/0000-0001-5117-0390
 
+E-mail: halilibrahimtosun@gmail.com
+
 **Version:** 1.0.0
 
 **Archive DOI:** To be assigned upon public archival of this repository.
