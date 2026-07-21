@@ -1,0 +1,4 @@
+Measure,Our replication (mean),Additional statistic,Model comparison
+DEA VRS (raw),0.591 (reported: 0.591),—,—
+DEA VRS (bootstrap-corrected),0.420 (reported: 0.420),—,—
+"SFA translog, mean TE",0.797 (reported: 0.797),log L = -453.23 (reported: -453.23),"LR(3)=15.67, p=0.0013 (reported: identical)"

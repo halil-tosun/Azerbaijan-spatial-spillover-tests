@@ -1,0 +1,11 @@
+Reintegrated district,Economic region,Officially bordering districts (* = also reintegrated)
+Aghdam,Karabakh,"Khojaly, Kalbajar*, Tartar, Khojavand*, Aghjabadi, Barda"
+Aghdara,Karabakh,"Goranboy, Tartar, Aghdam*, Khojaly, Kalbajar*"
+Fuzuli,Karabakh,"Khojavand*, Aghjabadi, Beylagan, Jabrayil*, (Iran)"
+Gubadli,East Zangezur,"Lachin*, Khojavand*, Jabrayil*, Zangilan*, (Armenia)"
+Jabrayil,East Zangezur,"Khojavand*, Fuzuli*, Gubadli*, Zangilan*, (Iran)"
+Kalbajar,East Zangezur,"Lachin*, Khojaly, Aghdam*, Tartar, Goranboy, Goygol, Dashkasan, (Armenia)"
+Khojavand,Karabakh,"Lachin*, Shusha*, Khojaly, Aghdam*, Aghjabadi, Fuzuli*, Jabrayil*, Gubadli*"
+Lachin,East Zangezur,"Kalbajar*, Khojaly, Shusha*, Khojavand*, Gubadli*, (Armenia)"
+Shusha,Karabakh,"Khojaly, Lachin*, Khojavand*"
+Zangilan,East Zangezur,"Gubadli*, Jabrayil*, (Armenia, Iran)"
